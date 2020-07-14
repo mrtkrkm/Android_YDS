@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_red">#B71C1C</color>
+    <color name="dark_pink">#880E4F</color>
+    <color name="dark_purple">#4A148C</color>
+    <color name="dark_indigo">#1A237E</color>
+    <color name="dark_blue">#0D47A1</color>
+    <color name="dark_light_blue">#01579B</color>
+    <color name="dark_cyan">#006064</color>
+    <color name="dark_teal">#004D40</color>
+    <color name="dark_deep_orange">#BF360C</color>
+    <color name="dark_blue_gray_900">#263238</color>
+    <color name="dark_blue_gray_800">#37474F</color>
+    <color name="instagram_blue">#125688</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="background_gray">#EFEFF4</color>
+
+</resources>
